@@ -11,7 +11,7 @@ $header[] = "X-AppVersion: 3.48.2";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.890971,107.616747";
+$header[] = "X-Location: -5.147665,119.4327313";
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
